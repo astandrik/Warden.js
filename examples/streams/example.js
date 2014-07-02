@@ -1,4 +1,4 @@
-var c1 = document.getElementById("console1");
+var c1 = $("console1");
 var c2 = document.getElementById("console2");
 
 var Clicker = Warden.create(function Clicker(e){ 
